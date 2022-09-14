@@ -1,1 +1,1 @@
-# React/Redux + TypeScript (class based components
+# React/Redux + TypeScript (class based components)
